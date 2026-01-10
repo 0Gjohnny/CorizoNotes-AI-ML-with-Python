@@ -1,0 +1,12 @@
+#Arithmatic Operations : +,-,*,/,%(remainder),**(power),//(floor division)
+
+var1=int(input("Enter a number"))
+var2=int(input("Enter another number"))
+print(var1+var2)
+print(var1+var2)
+print(var1-var2)
+print(var1*var2)
+print(var1/var2)
+print(var1//var2)
+print(var1%var2)
+print(var1**var2)
